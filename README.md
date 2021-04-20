@@ -1,4 +1,4 @@
-# flutter_appdemo
+# I Am Rich
 App name = "I Am Rich"
 created by team Jaguars
 A new Flutter application.
